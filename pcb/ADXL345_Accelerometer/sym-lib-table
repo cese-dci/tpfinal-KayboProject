@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ADXL345)(type Legacy)(uri ${KIPRJMOD}/Libraries/ADXL345/ADXL345.lib)(options "")(descr ""))
+  (lib (name 1N4148-P-TR)(type Legacy)(uri ${KIPRJMOD}/Libraries/1N4148/1N4148-P-TR.lib)(options "")(descr ""))
+)
