@@ -71,7 +71,13 @@ P 6200 3550
 F 0 "U1" V 5969 4203 50  0000 C CNN
 F 1 "ADXL345" V 6053 4224 50  0000 C CNN
 F 2 "Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y" H 6200 4125 50  0001 C CNN
-F 3 "" H 6200 4125 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" H 6200 4125 50  0001 C CNN
+F 4 "Analog Devices, Inc." V 6200 3550 50  0001 C CNN "Manufacturer"
+F 5 "https://ar.mouser.com/ProductDetail/Analog-Devices/ADXL345BCCZ?qs=WIvQP4zGanhoa7YOkGtvEg%3D%3D" V 6200 3550 50  0001 C CNN "Link"
+F 6 "Mouser" V 6200 3550 50  0001 C CNN "Supplier"
+F 7 "https://www.digikey.com/product-detail/en/analog-devices-inc/ADXL345BCCZ/ADXL345BCCZ-ND/2034829" V 6200 3550 50  0001 C CNN "Link"
+F 8 "Digikey" V 6200 3550 50  0001 C CNN "Supplier"
+F 9 "ADXL345BCCZ-ND" V 6200 3550 50  0001 C CNN "Digi-Key"
 	1    6200 3550
 	0    1    1    0   
 $EndComp
@@ -113,6 +119,12 @@ F 0 "U2" H 5300 2000 50  0000 C CNN
 F 1 "AP2112K-3.3" H 5300 1900 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5300 1975 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/AP2112.pdf" H 5300 1750 50  0001 C CNN
+F 4 "Diodes Incorporated" H 5300 1650 50  0001 C CNN "Manufacturer"
+F 5 "https://ar.mouser.com/ProductDetail/Diodes-Incorporated/AP2112K-33TRG1?qs=x6A8l6qLYDDPYHosCdzh%2FA%3D%3D" H 5300 1650 50  0001 C CNN "Link"
+F 6 "Mouser" H 5300 1650 50  0001 C CNN "Supplier"
+F 7 "https://www.digikey.com/product-detail/en/diodes-incorporated/AP2112K-3-3TRG1/AP2112K-3-3TRG1DITR-ND/4470746" H 5300 1650 50  0001 C CNN "Link"
+F 8 "Digikey" H 5300 1650 50  0001 C CNN "Supplier"
+F 9 "AP2112K-3.3TRG1DITR-ND" H 5300 1650 50  0001 C CNN "Digi-Key"
 	1    5300 1650
 	1    0    0    -1  
 $EndComp
@@ -294,7 +306,11 @@ P 3650 3650
 F 0 "J1" V 3900 3450 50  0000 L CNN
 F 1 "Conn_01x09" V 3800 3300 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" H 3650 3650 50  0001 C CNN
-F 3 "~" H 3650 3650 50  0001 C CNN
+F 3 "https://www.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik.pdf" H 3650 3650 50  0001 C CNN
+F 4 "Amphenol FCI" V 3650 3650 50  0001 C CNN "Manufacturer"
+F 5 "https://ar.mouser.com/ProductDetail/Amphenol-FCI/10129378-909003BLF?qs=0lQeLiL1qyYKryXpJ%252BfC%252BQ%3D%3D" V 3650 3650 50  0001 C CNN "Link"
+F 6 "Mouser" V 3650 3650 50  0001 C CNN "Supplier"
+F 7 "10129378-909003BLF-ND" V 3650 3650 50  0001 C CNN "Digi-Key"
 	1    3650 3650
 	-1   0    0    -1  
 $EndComp
@@ -367,7 +383,13 @@ P 5350 5800
 F 0 "Q2" V 5600 5800 50  0000 C CNN
 F 1 "BSS138" V 5700 5800 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 5550 5725 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 5350 5800 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" H 5350 5800 50  0001 L CNN
+F 4 "Semiconductor Components Industries, LLC " V 5350 5800 50  0001 C CNN "Manufacturer"
+F 5 "https://ar.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/BSS138?qs=HK%252BeIG1iaahCeqBvjB4arg%3D%3D" V 5350 5800 50  0001 C CNN "Link"
+F 6 "Mouser" V 5350 5800 50  0001 C CNN "Supplier"
+F 7 "https://www.digikey.com/product-detail/en/on-semiconductor/BSS138/BSS138CT-ND/244294" V 5350 5800 50  0001 C CNN "Link"
+F 8 "Digikey" V 5350 5800 50  0001 C CNN "Supplier"
+F 9 "BSS138CT-ND" V 5350 5800 50  0001 C CNN "Digi-Key"
 	1    5350 5800
 	0    1    1    0   
 $EndComp
@@ -378,7 +400,13 @@ P 5750 4900
 F 0 "Q1" V 6100 4900 50  0000 C CNN
 F 1 "BSS138" V 6000 4900 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 5950 4825 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 5750 4900 50  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" H 5750 4900 50  0001 L CNN
+F 4 "Semiconductor Components Industries, LLC " V 5750 4900 50  0001 C CNN "Manufacturer"
+F 5 "https://ar.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/BSS138?qs=HK%252BeIG1iaahCeqBvjB4arg%3D%3D" V 5750 4900 50  0001 C CNN "Link"
+F 6 "Mouser" V 5750 4900 50  0001 C CNN "Supplier"
+F 7 "https://www.digikey.com/product-detail/en/on-semiconductor/BSS138/BSS138CT-ND/244294" V 5750 4900 50  0001 C CNN "Link"
+F 8 "Digikey" V 5750 4900 50  0001 C CNN "Supplier"
+F 9 " BSS138CT-ND" V 5750 4900 50  0001 C CNN "Digi-Key"
 	1    5750 4900
 	0    -1   -1   0   
 $EndComp

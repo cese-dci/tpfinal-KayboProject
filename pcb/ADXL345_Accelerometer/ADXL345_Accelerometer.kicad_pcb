@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 38)
+    (drawings 39)
     (tracks 155)
     (zones 0)
     (modules 16)
@@ -30,7 +30,7 @@
     (46 B.CrtYd user)
     (47 F.CrtYd user)
     (48 B.Fab user)
-    (49 F.Fab user hide)
+    (49 F.Fab user)
   )
 
   (setup
@@ -754,6 +754,9 @@
     )
   )
 
+  (gr_text "Designed In \nArgentina" (at 141.24 92.64) (layer B.SilkS)
+    (effects (font (size 1.2 1.2) (thickness 0.15)) (justify mirror))
+  )
   (gr_poly (pts (xy 148.795 102.73) (xy 149.765 102.73) (xy 149.78 102.76) (xy 149.28 103.31)) (layer F.SilkS) (width 0.1) (tstamp 5EDE5695))
   (gr_poly (pts (xy 153.184 88.2826) (xy 152.784 88.2826) (xy 152.984 88.0826)) (layer F.SilkS) (width 0.1))
   (gr_circle (center 154.284 89.4026) (end 154.442114 89.4026) (layer F.SilkS) (width 0.15))
@@ -799,7 +802,7 @@
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (dimension 22.885527 (width 0.15) (layer Dwgs.User)
-    (gr_text "22,886 mm" (at 164.858083 92.784633 89.80922674) (layer Dwgs.User) (tstamp 5EEC7845)
+    (gr_text "22,886 mm" (at 164.858083 92.784633 89.80922674) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (feature1 (pts (xy 153.8478 104.1908) (xy 164.106408 104.224957)))
@@ -811,7 +814,7 @@
     (arrow2b (pts (xy 163.59619 81.337605) (xy 164.178857 82.466055)))
   )
   (dimension 25.400051 (width 0.15) (layer Dwgs.User)
-    (gr_text "25,400 mm" (at 143.986796 74.174609 359.8854086) (layer Dwgs.User) (tstamp 5EEC78EE)
+    (gr_text "25,400 mm" (at 143.986796 74.174609 359.8854086) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (feature1 (pts (xy 156.6672 83.9978) (xy 156.685368 74.913586)))
