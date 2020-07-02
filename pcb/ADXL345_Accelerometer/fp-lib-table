@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ADXL345)(type KiCad)(uri E:/Git/tpfinal-KayboProject/pcb/ADXL345_Accelerometer/Libraries/ADXL345/footprints.pretty)(options "")(descr ""))
+)
