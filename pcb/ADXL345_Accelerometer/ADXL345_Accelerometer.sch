@@ -35,7 +35,7 @@ F 3 "~" H 1650 6650 50  0001 C CNN
 	1    1650 6650
 	1    0    0    -1  
 $EndComp
-Text Notes 1400 6050 0    50   ~ 0
+Text Notes 1300 6050 0    58   ~ 12
 MOUNTING HOLES & FIDUCIAL
 Wire Notes Line
 	1400 6100 2500 6100
@@ -157,7 +157,7 @@ F 3 "" H 6700 1200 50  0001 C CNN
 	1    6700 1200
 	1    0    0    -1  
 $EndComp
-Text Notes 5250 5950 0    50   ~ 0
+Text Notes 5500 5950 0    58   ~ 12
 ADXL345 ACCELEROMETER
 Text Notes 6250 2950 0    50   ~ 0
 Level shifting (5v <--> 3V)
@@ -503,8 +503,6 @@ F 3 "" H 4250 1200 50  0001 C CNN
 	1    4250 1200
 	1    0    0    -1  
 $EndComp
-Text Notes 4350 3150 0    50   ~ 0
-HEADER
 Wire Notes Line
 	3250 850  5750 850 
 Text Notes 3350 2950 0    50   ~ 0
@@ -523,7 +521,7 @@ Wire Notes Line
 	8750 850  8750 3000
 Wire Notes Line
 	8750 3000 6150 3000
-Text Notes 7100 3150 0    50   ~ 0
+Text Notes 7100 3150 0    58   ~ 12
 POWER MANAGEMENT
 $Comp
 L Diode:1N4148 D1
@@ -674,4 +672,6 @@ Wire Wire Line
 Connection ~ 9300 4500
 Wire Wire Line
 	9300 4500 9750 4500
+Text Notes 4350 3150 0    58   ~ 12
+HEADER
 $EndSCHEMATC
