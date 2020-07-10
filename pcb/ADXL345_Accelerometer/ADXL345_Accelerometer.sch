@@ -7,10 +7,10 @@ Sheet 1 1
 Title "Réplica ADXL345 Digital Accelerometer"
 Date "2020-06-04"
 Rev "2.0"
-Comp "Licencia Creative Commons"
-Comment1 "Revisor/Docente: Diego Brengi"
-Comment2 "Revisor/Alumno: Del Sancio Leonardo Daniel"
-Comment3 "Autor: Alberto Emanuel Yapura"
+Comp "Autor: Alberto Emanuel Yapura"
+Comment1 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment2 "Revisor: Del Sancio Leonardo Daniel / Diego Brengi"
+Comment3 "Bajo Licencia Creative Commons Attribution Sharealike 4.0"
 Comment4 "Módulo para el proyecto final - CESE 10Co 2020"
 $EndDescr
 $Comp
